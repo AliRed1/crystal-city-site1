@@ -1,0 +1,19 @@
+{
+  "name": "respect-cfw-website",
+  "version": "1.0.0",
+  "description": "Respect CFW - Official FiveM Community Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "respect",
+    "respectcfw",
+    "fivem",
+    "roleplay",
+    "gta5"
+  ],
+  "author": "Respect CFW Team",
+  "license": "ISC"
+}
